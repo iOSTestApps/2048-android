@@ -1,4 +1,4 @@
-2048-android
+2048 Android
 ============
 
 This is the android port of the 2048 game made by Gabriele Cirulli https://github.com/gabrielecirulli/2048 
